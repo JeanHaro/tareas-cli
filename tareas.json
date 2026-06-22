@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tarea 1",
+    "estado": "Completada",
+    "prioridad": "Alta"
+  },
+  {
+    "id": 2,
+    "nombre": "Tarea 2",
+    "estado": "Completada",
+    "prioridad": "Media"
+  },
+  {
+    "id": 3,
+    "nombre": "Tarea 3",
+    "estado": "Completada",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 4,
+    "nombre": "Tarea 4",
+    "estado": "Pendiente",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 5,
+    "nombre": "Tarea 5 ",
+    "estado": "Completada",
+    "prioridad": "Media"
+  },
+  {
+    "id": 7,
+    "nombre": "Tarea 7",
+    "estado": "Pendiente",
+    "prioridad": "Media"
+  },
+  {
+    "id": 8,
+    "nombre": "Tarea 8",
+    "estado": "Pendiente",
+    "prioridad": "Media"
+  },
+  {
+    "id": 9,
+    "nombre": "Tarea 9",
+    "estado": "Pendiente",
+    "prioridad": "Baja"
+  },
+  {
+    "id": 10,
+    "nombre": "Tarea 10",
+    "estado": "Pendiente",
+    "prioridad": "Media"
+  }
+]
