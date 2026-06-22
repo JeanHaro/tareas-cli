@@ -1,11 +1,11 @@
-# ✅ Gestor de Tareas CLI — Proyecto 2
+# Gestor de Tareas CLI
 
 CLI interactivo para gestión de tareas con persistencia en disco.  
 Proyecto de práctica para los **Tipos Básicos en TypeScript**.
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 src/
@@ -17,7 +17,7 @@ src/
 
 ---
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 
 ```bash
@@ -26,7 +26,7 @@ pnpm start
 
 ---
 
-## 🔑 Conceptos TypeScript practicados
+## Conceptos TypeScript practicados
 
 | Concepto | Dónde se usa |
 |---|---|
@@ -40,7 +40,7 @@ pnpm start
 
 ---
 
-## 🖥️ Opciones del menú
+## Opciones del menú
 
 ```
 [1] Crear tarea    → pide nombre y prioridad (Alta / Media / Baja)
@@ -51,7 +51,7 @@ pnpm start
 
 ---
 
-## 📝 Notas técnicas
+## Notas técnicas
 
 - **Persistencia en disco** — `tareas.json` sobrevive al reinicio
 - **Tuplas** — cada tarea es `[id, nombre, estado, prioridad]`
